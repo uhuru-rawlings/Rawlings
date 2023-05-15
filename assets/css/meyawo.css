@@ -12287,3 +12287,23 @@ pre .code {
   color: #1e549f;
   font-size: 16px;
 }
+.icons_circle{
+  height: 40px;
+  width: 40px;
+  border: 2px solid #448BB3;
+  border-radius: 50%;
+  color: #448BB3;
+  margin-right: 10px;
+  transition: 0.3s all;
+}
+.icons_circle:hover{
+  background-color: #448BB3;
+  color: #FFFFFF;
+}
+#portfolio img{
+  width: 100% !important;
+  object-fit: scale-down !important;
+  object-position: center !important;
+  height: 100% !important;
+  /* min-height: 400px !important; */
+}
