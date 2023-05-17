@@ -12307,3 +12307,7 @@ pre .code {
   height: 100% !important;
   /* min-height: 400px !important; */
 }
+#portfolio .col-sm-12{
+  border: 1px solid #DEE2E6;
+  padding-top: 10px;
+}
